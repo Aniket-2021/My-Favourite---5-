@@ -1,0 +1,116 @@
+body {
+    text-align: center;
+}
+
+#heading {
+    font-family: cursive;
+    background-color: yellowgreen;
+}
+
+#para {
+    color: brown;
+    font-size: 30px;
+    font-style: italic;
+    color: blue;
+    font-family: 'Dancing Script', cursive;
+}
+
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+    position: sticky;
+    margin-right:500px;
+    background-color:yellow;
+}
+
+.link {
+    float: left;
+    color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size: 23px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#para {
+    margin-bottom: 500px;
+}
+
+.profile {
+    width: 300px;
+    border-radius: 100%;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+#para {
+    background-color: lightcoral;
+}
+
+html {
+    scroll-behavior:smooth;
+}
+
+.line {
+    background-color: black;
+    width: 6px;
+}
+
+#mfb {
+    background-color: lightcoral;
+}
+
+#about {
+    font-size: 25px;
+    margin-top: 500px;
+    margin-bottom: 500px;
+    color: green;
+    background-color: aqua;
+}
+
+#mw {
+    background-color: blue;
+}
+
+.link:hover {
+    background-color: yellow;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+.heading {
+    font-size:35px;
+    color:black;
+}
+
+#elonMusk {
+    width:500px;
+}
+
+#isp {
+    background-color:yellow;
+}
+
+#ispInfo {
+    font-size:20px;
+}
+
+#ispName {
+    font-size:30px;
+}
+
+#ct{
+    font-size:35px;
+}
